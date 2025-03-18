@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm **Theodore Raffael**, a passionate **Data Scientist & ML Enthusiast** who loves uncovering insights from data and building intelligent solutions. With a background in Informatics Engineering, I have transitioned from **Web Development** into the fascinating world of **AI, Machine Learning, and Data Science**.
+Hey there! I'm **Theodore J. Raffael**, a passionate **Data Scientist & ML Enthusiast** who loves uncovering insights from data and building intelligent solutions. With a background in Informatics Engineering, I have transitioned from **Web Development** into the fascinating world of **AI, Machine Learning, and Data Science**.
 
 🔍 **Currently Exploring**: Deep Learning, Generative AI, and LLMs  
 📊 **Interests**: Data Analytics, AI Research, MLOps  
