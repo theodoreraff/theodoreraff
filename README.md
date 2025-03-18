@@ -44,7 +44,7 @@ Hey there! I'm **Theodore J. Raffael**, a passionate **Data Scientist & ML Enthu
 ## 📬 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/theodoreraffael/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https:///"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.instagram.com/theodreraffael/"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="mailto:theodoreraffael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
