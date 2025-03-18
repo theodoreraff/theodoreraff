@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Theodore%20Raffael&fontSize=40&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Theodore%20J.%20Raffael&fontSize=40&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=55&descAlign=50)
 
 ## 👋 About Me
 
