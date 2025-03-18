@@ -1,108 +1,56 @@
-I am a student 🎓 pursuing a degree in Informatics Engineering 💻 with a strong foundation in web development and experience in software testing 🔥. Currently, I am working on multiple web development projects that involve building responsive and user-friendly applications. My interests include Frontend and Backend development, Quality Assurance, and improving user experience ✨.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Theodore%20Raffael&fontSize=40&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=55&descAlign=50)
 
-As I am passionate about learning new technologies and best practices in web development 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others in the tech community. I am always open to discussions, so feel free to ask questions or share your thoughts 💬.
+## 👋 About Me
 
-<p><a href="https://www.instagram.com/theodreraffael/"><img src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/theodoreraffael/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+Hey there! I'm **Theodore Raffael**, a passionate **Data Scientist & ML Enthusiast** who loves uncovering insights from data and building intelligent solutions. With a background in Informatics Engineering, I have transitioned from **Web Development** into the fascinating world of **AI, Machine Learning, and Data Science**.
+
+🔍 **Currently Exploring**: Deep Learning, Generative AI, and LLMs  
+📊 **Interests**: Data Analytics, AI Research, MLOps  
+🚀 **Love Building**: ML models, data-driven applications, AI-powered solutions  
+💡 **Motto**: _"Turning raw data into valuable insights!"_
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🔹 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🔹 AI/ML Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔹 Data & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Latest Projects
+
+- 🤖 **AI Chatbot** – Built an NLP-powered chatbot using Transformers & LangChain
+- 📊 **Stock Price Prediction** – Predicting stock trends using LSTMs & Time-Series Analysis
+- 🏥 **Medical Diagnosis AI** – Using CNNs for medical image classification
+- 🔍 **Sentiment Analysis Dashboard** – Analyzing Twitter sentiments with NLP
+
+---
+
+## 📬 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/theodoreraffael/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/theodreraffael/"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="mailto:theodoreraffael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
-<br>
 
-## ⚡ A Few Quick Facts:
-
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
-
-- 🔭 I’m currently working on multiple projects in Web Development.
-- 🧮 I’m studying Informatics Engineering at the Electronics Engineering Polytechnic Institute of Surabaya.
-- 👯 I’m looking to collaborate on any Web Development or Quality Assurance related projects.
-- 🤔 I would appreciate any assistance or resources related to web development best practices, tools, and methodologies.
-- 💬 Ask me about anything related to web development and quality assurance.
-- 📫 How to reach me: [Gmail](mailto:theodoreraffael@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ I love experimenting with new web technologies and frameworks!
-
-## 🛠️ Languages and Tools I use:
-
-<p align="center"> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
-    </a>
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/></code> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.php.net" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.selenium.dev/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.jestjs.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.postman.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.jira.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="35" height="35"/></code> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
-    </a>
-    <a href="https://code.visualstudio.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code> 
-    </a> 
-</p>
-<br>
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Indonesia
-
-💬 Programming Languages:
-Other                    5 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.86 %
-JavaScript               4 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.08 %
-Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-
-🔥 Editors:
-VS Code                  6 hrs 15 mins       █████████████░░░░░░░░░░░░   53.22 %
-Google Calendar          5 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.78 %
-
-🐱‍💻 Projects:
-Unknown Project          5 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.78 %
-real-estate              4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.46 %
-CryoEM                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-rnext                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-
-💻 Operating System:
-Linux                    6 hrs 15 mins       █████████████░░░░░░░░░░░░   53.22 %
-Unknown OS               5 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.78 %
-```
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
