@@ -1,55 +1,49 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Theodore%20J.%20Raffael&fontSize=40&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Theodore%20J.%20Raffael&fontSize=40&fontAlignY=35&desc=QA%20Engineer%20%7C%20Data-Driven%20Testing%20%7C%20Automation&descAlignY=55&descAlign=50)
 
 ## 👋 About Me
 
-Hey there! I'm **Theodore J. Raffael**, a passionate **Data Scientist & ML Enthusiast** who loves uncovering insights from data and building intelligent solutions. With a background in Informatics Engineering, I have transitioned from **Web Development** into the fascinating world of **AI, Machine Learning, and Data Science**.
+Hi! I'm **Theodore J. Raffael**, a Quality Assurance Engineer with a strong foundation in software testing and a growing passion for data. My mission is to ensure digital products are not just functional, but also reliable and data-sound. I bridge the gap between software quality and data integrity by leveraging my analytical skills and technical curiosity.
 
-🔍 **Currently Exploring**: Deep Learning, Generative AI, and LLMs  
-📊 **Interests**: Data Analytics, AI Research, MLOps  
-🚀 **Love Building**: ML models, data-driven applications, AI-powered solutions  
-💡 **Motto**: _"Turning raw data into valuable insights!"_
+My approach is simple: **break things methodically to make them better.** I believe the most robust software is built on a foundation of high-quality, validated data.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ My Tech Stack & Tools
 
-### 🔹 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+*Ini adalah tools yang saya gunakan dalam proyek-proyek saya.*
 
-### 🔹 AI/ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🔹 QA & Test Automation
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6A737D?style=for-the-badge&logo=testing-library&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-E4A524?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🔹 Data & Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🔹 Data & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 🚀 Latest Projects
+## 🌱 I'm Currently Learning & Exploring
 
-- 🤖 **AI Chatbot** – Built an NLP-powered chatbot using Transformers & LangChain
-- 📊 **Stock Price Prediction** – Predicting stock trends using LSTMs & Time-Series Analysis
-- 🏥 **Medical Diagnosis AI** – Using CNNs for medical image classification
-- 🔍 **Sentiment Analysis Dashboard** – Analyzing Twitter sentiments with NLP
+I am a lifelong learner, always eager to expand my skill set. My current focus is on strengthening my foundation to become a T-shaped engineer.
+
+- **Deepening my API Testing skills** with `RestAssured`.
+- **Exploring Data Warehousing concepts** and ETL processes.
+- **Strengthening my Cloud fundamentals** with AWS & Azure.
 
 ---
 
 ## 📬 Connect with Me
 
 <p>
-<a href="https:///"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/theodreraffael/"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="www.linkedin.com/in/theodoreraffael"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:theodoreraffael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
